@@ -1,0 +1,51 @@
+running egg_info
+creating build/live_experiment/live_experiment.egg-info
+writing build/live_experiment/live_experiment.egg-info/PKG-INFO
+writing dependency_links to build/live_experiment/live_experiment.egg-info/dependency_links.txt
+writing entry points to build/live_experiment/live_experiment.egg-info/entry_points.txt
+writing requirements to build/live_experiment/live_experiment.egg-info/requires.txt
+writing top-level names to build/live_experiment/live_experiment.egg-info/top_level.txt
+writing manifest file 'build/live_experiment/live_experiment.egg-info/SOURCES.txt'
+reading manifest file 'build/live_experiment/live_experiment.egg-info/SOURCES.txt'
+writing manifest file 'build/live_experiment/live_experiment.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/mortadha/ros2_ws/src/live_experiment/build/live_experiment/build
+creating /home/mortadha/ros2_ws/src/live_experiment/build/live_experiment/build/lib
+creating /home/mortadha/ros2_ws/src/live_experiment/build/live_experiment/build/lib/live_experiment
+copying live_experiment/robot.py -> /home/mortadha/ros2_ws/src/live_experiment/build/live_experiment/build/lib/live_experiment
+copying live_experiment/__init__.py -> /home/mortadha/ros2_ws/src/live_experiment/build/live_experiment/build/lib/live_experiment
+copying live_experiment/test_robot_sdk.py -> /home/mortadha/ros2_ws/src/live_experiment/build/live_experiment/build/lib/live_experiment
+copying live_experiment/_live.py -> /home/mortadha/ros2_ws/src/live_experiment/build/live_experiment/build/lib/live_experiment
+copying live_experiment/live.py -> /home/mortadha/ros2_ws/src/live_experiment/build/live_experiment/build/lib/live_experiment
+copying live_experiment/_robot.py -> /home/mortadha/ros2_ws/src/live_experiment/build/live_experiment/build/lib/live_experiment
+copying live_experiment/audio_processing.py -> /home/mortadha/ros2_ws/src/live_experiment/build/live_experiment/build/lib/live_experiment
+running install
+running install_lib
+creating /home/mortadha/ros2_ws/src/live_experiment/install/live_experiment/lib/python3.10/site-packages/live_experiment
+copying /home/mortadha/ros2_ws/src/live_experiment/build/live_experiment/build/lib/live_experiment/robot.py -> /home/mortadha/ros2_ws/src/live_experiment/install/live_experiment/lib/python3.10/site-packages/live_experiment
+copying /home/mortadha/ros2_ws/src/live_experiment/build/live_experiment/build/lib/live_experiment/__init__.py -> /home/mortadha/ros2_ws/src/live_experiment/install/live_experiment/lib/python3.10/site-packages/live_experiment
+copying /home/mortadha/ros2_ws/src/live_experiment/build/live_experiment/build/lib/live_experiment/test_robot_sdk.py -> /home/mortadha/ros2_ws/src/live_experiment/install/live_experiment/lib/python3.10/site-packages/live_experiment
+copying /home/mortadha/ros2_ws/src/live_experiment/build/live_experiment/build/lib/live_experiment/_live.py -> /home/mortadha/ros2_ws/src/live_experiment/install/live_experiment/lib/python3.10/site-packages/live_experiment
+copying /home/mortadha/ros2_ws/src/live_experiment/build/live_experiment/build/lib/live_experiment/live.py -> /home/mortadha/ros2_ws/src/live_experiment/install/live_experiment/lib/python3.10/site-packages/live_experiment
+copying /home/mortadha/ros2_ws/src/live_experiment/build/live_experiment/build/lib/live_experiment/_robot.py -> /home/mortadha/ros2_ws/src/live_experiment/install/live_experiment/lib/python3.10/site-packages/live_experiment
+copying /home/mortadha/ros2_ws/src/live_experiment/build/live_experiment/build/lib/live_experiment/audio_processing.py -> /home/mortadha/ros2_ws/src/live_experiment/install/live_experiment/lib/python3.10/site-packages/live_experiment
+byte-compiling /home/mortadha/ros2_ws/src/live_experiment/install/live_experiment/lib/python3.10/site-packages/live_experiment/robot.py to robot.cpython-310.pyc
+byte-compiling /home/mortadha/ros2_ws/src/live_experiment/install/live_experiment/lib/python3.10/site-packages/live_experiment/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/mortadha/ros2_ws/src/live_experiment/install/live_experiment/lib/python3.10/site-packages/live_experiment/test_robot_sdk.py to test_robot_sdk.cpython-310.pyc
+byte-compiling /home/mortadha/ros2_ws/src/live_experiment/install/live_experiment/lib/python3.10/site-packages/live_experiment/_live.py to _live.cpython-310.pyc
+byte-compiling /home/mortadha/ros2_ws/src/live_experiment/install/live_experiment/lib/python3.10/site-packages/live_experiment/live.py to live.cpython-310.pyc
+byte-compiling /home/mortadha/ros2_ws/src/live_experiment/install/live_experiment/lib/python3.10/site-packages/live_experiment/_robot.py to _robot.cpython-310.pyc
+byte-compiling /home/mortadha/ros2_ws/src/live_experiment/install/live_experiment/lib/python3.10/site-packages/live_experiment/audio_processing.py to audio_processing.cpython-310.pyc
+running install_data
+creating /home/mortadha/ros2_ws/src/live_experiment/install/live_experiment/share/ament_index
+creating /home/mortadha/ros2_ws/src/live_experiment/install/live_experiment/share/ament_index/resource_index
+creating /home/mortadha/ros2_ws/src/live_experiment/install/live_experiment/share/ament_index/resource_index/packages
+copying resource/live_experiment -> /home/mortadha/ros2_ws/src/live_experiment/install/live_experiment/share/ament_index/resource_index/packages
+copying package.xml -> /home/mortadha/ros2_ws/src/live_experiment/install/live_experiment/share/live_experiment
+running install_egg_info
+Copying build/live_experiment/live_experiment.egg-info to /home/mortadha/ros2_ws/src/live_experiment/install/live_experiment/lib/python3.10/site-packages/live_experiment-0.0.0-py3.10.egg-info
+running install_scripts
+Installing live script to /home/mortadha/ros2_ws/src/live_experiment/install/live_experiment/lib/live_experiment
+Installing robot script to /home/mortadha/ros2_ws/src/live_experiment/install/live_experiment/lib/live_experiment
+writing list of installed files to '/home/mortadha/ros2_ws/src/live_experiment/build/live_experiment/install.log'

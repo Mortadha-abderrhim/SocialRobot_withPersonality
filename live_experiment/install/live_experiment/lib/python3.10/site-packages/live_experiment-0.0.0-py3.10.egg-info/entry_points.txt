@@ -1,0 +1,4 @@
+[console_scripts]
+live = live_experiment.live:main
+robot = live_experiment.robot:main
+

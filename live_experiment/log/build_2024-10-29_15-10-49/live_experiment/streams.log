@@ -1,0 +1,53 @@
+[0.408s] Invoking command in '/home/mortadha/ros2_ws/src/live_experiment': PYTHONPATH=/home/mortadha/ros2_ws/src/live_experiment/build/live_experiment/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mortadha/ros2_ws/src/live_experiment/install/live_experiment/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base build/live_experiment build --build-base /home/mortadha/ros2_ws/src/live_experiment/build/live_experiment/build install --record /home/mortadha/ros2_ws/src/live_experiment/build/live_experiment/install.log --single-version-externally-managed install_data
+[0.589s] running egg_info
+[0.589s] creating build/live_experiment/live_experiment.egg-info
+[0.589s] writing build/live_experiment/live_experiment.egg-info/PKG-INFO
+[0.589s] writing dependency_links to build/live_experiment/live_experiment.egg-info/dependency_links.txt
+[0.589s] writing entry points to build/live_experiment/live_experiment.egg-info/entry_points.txt
+[0.589s] writing requirements to build/live_experiment/live_experiment.egg-info/requires.txt
+[0.590s] writing top-level names to build/live_experiment/live_experiment.egg-info/top_level.txt
+[0.590s] writing manifest file 'build/live_experiment/live_experiment.egg-info/SOURCES.txt'
+[0.590s] reading manifest file 'build/live_experiment/live_experiment.egg-info/SOURCES.txt'
+[0.591s] writing manifest file 'build/live_experiment/live_experiment.egg-info/SOURCES.txt'
+[0.591s] running build
+[0.591s] running build_py
+[0.591s] creating /home/mortadha/ros2_ws/src/live_experiment/build/live_experiment/build
+[0.591s] creating /home/mortadha/ros2_ws/src/live_experiment/build/live_experiment/build/lib
+[0.591s] creating /home/mortadha/ros2_ws/src/live_experiment/build/live_experiment/build/lib/live_experiment
+[0.591s] copying live_experiment/robot.py -> /home/mortadha/ros2_ws/src/live_experiment/build/live_experiment/build/lib/live_experiment
+[0.591s] copying live_experiment/__init__.py -> /home/mortadha/ros2_ws/src/live_experiment/build/live_experiment/build/lib/live_experiment
+[0.591s] copying live_experiment/test_robot_sdk.py -> /home/mortadha/ros2_ws/src/live_experiment/build/live_experiment/build/lib/live_experiment
+[0.596s] copying live_experiment/_live.py -> /home/mortadha/ros2_ws/src/live_experiment/build/live_experiment/build/lib/live_experiment
+[0.596s] copying live_experiment/live.py -> /home/mortadha/ros2_ws/src/live_experiment/build/live_experiment/build/lib/live_experiment
+[0.596s] copying live_experiment/_robot.py -> /home/mortadha/ros2_ws/src/live_experiment/build/live_experiment/build/lib/live_experiment
+[0.597s] copying live_experiment/audio_processing.py -> /home/mortadha/ros2_ws/src/live_experiment/build/live_experiment/build/lib/live_experiment
+[0.597s] running install
+[0.597s] running install_lib
+[0.597s] creating /home/mortadha/ros2_ws/src/live_experiment/install/live_experiment/lib/python3.10/site-packages/live_experiment
+[0.597s] copying /home/mortadha/ros2_ws/src/live_experiment/build/live_experiment/build/lib/live_experiment/robot.py -> /home/mortadha/ros2_ws/src/live_experiment/install/live_experiment/lib/python3.10/site-packages/live_experiment
+[0.597s] copying /home/mortadha/ros2_ws/src/live_experiment/build/live_experiment/build/lib/live_experiment/__init__.py -> /home/mortadha/ros2_ws/src/live_experiment/install/live_experiment/lib/python3.10/site-packages/live_experiment
+[0.597s] copying /home/mortadha/ros2_ws/src/live_experiment/build/live_experiment/build/lib/live_experiment/test_robot_sdk.py -> /home/mortadha/ros2_ws/src/live_experiment/install/live_experiment/lib/python3.10/site-packages/live_experiment
+[0.598s] copying /home/mortadha/ros2_ws/src/live_experiment/build/live_experiment/build/lib/live_experiment/_live.py -> /home/mortadha/ros2_ws/src/live_experiment/install/live_experiment/lib/python3.10/site-packages/live_experiment
+[0.598s] copying /home/mortadha/ros2_ws/src/live_experiment/build/live_experiment/build/lib/live_experiment/live.py -> /home/mortadha/ros2_ws/src/live_experiment/install/live_experiment/lib/python3.10/site-packages/live_experiment
+[0.598s] copying /home/mortadha/ros2_ws/src/live_experiment/build/live_experiment/build/lib/live_experiment/_robot.py -> /home/mortadha/ros2_ws/src/live_experiment/install/live_experiment/lib/python3.10/site-packages/live_experiment
+[0.598s] copying /home/mortadha/ros2_ws/src/live_experiment/build/live_experiment/build/lib/live_experiment/audio_processing.py -> /home/mortadha/ros2_ws/src/live_experiment/install/live_experiment/lib/python3.10/site-packages/live_experiment
+[0.598s] byte-compiling /home/mortadha/ros2_ws/src/live_experiment/install/live_experiment/lib/python3.10/site-packages/live_experiment/robot.py to robot.cpython-310.pyc
+[0.598s] byte-compiling /home/mortadha/ros2_ws/src/live_experiment/install/live_experiment/lib/python3.10/site-packages/live_experiment/__init__.py to __init__.cpython-310.pyc
+[0.598s] byte-compiling /home/mortadha/ros2_ws/src/live_experiment/install/live_experiment/lib/python3.10/site-packages/live_experiment/test_robot_sdk.py to test_robot_sdk.cpython-310.pyc
+[0.599s] byte-compiling /home/mortadha/ros2_ws/src/live_experiment/install/live_experiment/lib/python3.10/site-packages/live_experiment/_live.py to _live.cpython-310.pyc
+[0.600s] byte-compiling /home/mortadha/ros2_ws/src/live_experiment/install/live_experiment/lib/python3.10/site-packages/live_experiment/live.py to live.cpython-310.pyc
+[0.600s] byte-compiling /home/mortadha/ros2_ws/src/live_experiment/install/live_experiment/lib/python3.10/site-packages/live_experiment/_robot.py to _robot.cpython-310.pyc
+[0.601s] byte-compiling /home/mortadha/ros2_ws/src/live_experiment/install/live_experiment/lib/python3.10/site-packages/live_experiment/audio_processing.py to audio_processing.cpython-310.pyc
+[0.601s] running install_data
+[0.601s] creating /home/mortadha/ros2_ws/src/live_experiment/install/live_experiment/share/ament_index
+[0.601s] creating /home/mortadha/ros2_ws/src/live_experiment/install/live_experiment/share/ament_index/resource_index
+[0.601s] creating /home/mortadha/ros2_ws/src/live_experiment/install/live_experiment/share/ament_index/resource_index/packages
+[0.601s] copying resource/live_experiment -> /home/mortadha/ros2_ws/src/live_experiment/install/live_experiment/share/ament_index/resource_index/packages
+[0.601s] copying package.xml -> /home/mortadha/ros2_ws/src/live_experiment/install/live_experiment/share/live_experiment
+[0.602s] running install_egg_info
+[0.603s] Copying build/live_experiment/live_experiment.egg-info to /home/mortadha/ros2_ws/src/live_experiment/install/live_experiment/lib/python3.10/site-packages/live_experiment-0.0.0-py3.10.egg-info
+[0.603s] running install_scripts
+[0.614s] Installing live script to /home/mortadha/ros2_ws/src/live_experiment/install/live_experiment/lib/live_experiment
+[0.614s] Installing robot script to /home/mortadha/ros2_ws/src/live_experiment/install/live_experiment/lib/live_experiment
+[0.614s] writing list of installed files to '/home/mortadha/ros2_ws/src/live_experiment/build/live_experiment/install.log'
+[0.628s] Invoked command in '/home/mortadha/ros2_ws/src/live_experiment' returned '0': PYTHONPATH=/home/mortadha/ros2_ws/src/live_experiment/build/live_experiment/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mortadha/ros2_ws/src/live_experiment/install/live_experiment/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base build/live_experiment build --build-base /home/mortadha/ros2_ws/src/live_experiment/build/live_experiment/build install --record /home/mortadha/ros2_ws/src/live_experiment/build/live_experiment/install.log --single-version-externally-managed install_data
